@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>The Federation of Degenerate Retards was founded in 2022 amongst a small group friends who never had indulged in dynasty fantasy football prior. Our league thrives due to our constant year long activity as well as constant trolling and banter.</p>
+  <p>Some owners aim to compete every season, while others try to formulate plans for long term success, which may or may not include intentional tanking. Allegedly. Regardless, the ultimate goal is to hoist the Sacred Jug.</p>
+  <p>Through our first two seasons we have had two different champions, as well as two different last place finishers. The champion of the inaugural season has retired and been replaced, but his mark has been made. Our most recent champion, Tiananmen Square, hopes to repeat in the upcoming 2024 season.</p>
+  <p>The true ultimate prize in this league is bragging rights and the ability to send obnoxious over the top text messages that cause people to frequently leave chats. Western Kentucky. On top of that privilege, the winner will walk away with $770 and of course, the Sacred Jug.</p>
+ 
 `;
 
 /*   STEP 3   */
